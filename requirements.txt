@@ -1,0 +1,5 @@
+spacy
+click
+# Optional: install the Russian spaCy model for best results
+# python3 -m pip install ru_core_news_lg
+# or python3 -m spacy download ru_core_news_lg
